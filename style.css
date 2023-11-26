@@ -1,0 +1,394 @@
+.homepage {
+  background-color: #ffffff;
+}
+
+.theme-fg-color {
+  color: #faa320 !important;
+}
+
+.ps-8 {
+  padding-left: 48px !important;
+}
+
+.social-icon {
+  width: 26px;
+  height: 26px;
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.normal-text {
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 1.2rem;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 2rem;
+}
+
+.small-text {
+
+color: #333333;
+font-family: "Roboto", Helvetica;
+font-weight: 400;
+font-size: 16px;
+letter-spacing: 0;
+line-height: 28px;
+}
+
+.lyptus-text {
+  font-family: "Roboto", Helvetica;
+font-weight: 400;
+color: #58585b;
+font-size: 16px;
+letter-spacing: 0;
+line-height: 32px;
+text-align: justify;
+}
+
+.footer-text {
+  font-weight: 400;
+  color: #58585b;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.logo {
+  width: 151px;
+  height: 68px;
+}
+
+
+.active-nav {
+  color: #faa320 !important;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.normal-nav {
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #58585b;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.banner {
+  background-size: 100%;
+  background-repeat: no-repeat;
+  min-width: 100%;
+  padding-bottom: 4.5rem;
+}
+
+.banner-button {
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 23px;
+  white-space: nowrap;
+  border-radius: 20px;
+  background-color: #0892ff;
+}
+
+.main-content {
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 1.2rem;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 2rem;
+  margin-top: 40px;
+}
+
+.main-content .h1, .heading {
+  font-family: "Roboto", Helvetica;
+  font-weight: 500;
+  color: #333333;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 50px;
+  white-space: nowrap;
+}
+
+
+.home-banner {
+  background-image: url(./img/bannner.svg);
+}
+
+.home-banner-text {
+  padding-top: 121px;
+  padding-left: 4.2%;
+  margin-top: 20px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 300;
+  color: transparent;
+  font-size: 3.2vw;
+  letter-spacing: 0;
+  line-height: 3.9vw;
+  color: #ffffff;
+}
+
+
+
+.home-banner-button {
+  margin-top: 9%;
+  width: 122px;
+}
+
+.choose-us-button {
+  margin-top: 4%;
+  width: 178px;
+}
+
+.home-card {
+  padding-left: 30px;
+}
+.home-card-title {
+  font-weight: 400;
+  color: #333333;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home-card-body {
+  font-weight: 400;
+  color: #585858;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+  padding-top:2px;
+}
+
+.services {
+  margin-top: 48px;
+}
+
+.why-choose-us {
+  background-color: #072446;
+  min-height: 367px;
+  padding-top: 5rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  text-align: center;
+}
+
+.about-us-banner {
+  background-image: url(./AboutUs/img/bannner.svg);
+}
+
+.banner-margin {
+  font-family: "Roboto", Helvetica;
+  margin-right: 39vw;
+  margin-top: 14px;
+  text-align: left;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+  letter-spacing: 0;
+}
+
+.banner-small-text {
+  font-family: "Roboto", Helvetica;
+  text-align: left;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+  letter-spacing: 0;
+}
+
+.about-us-button {
+  margin-top: 2%;
+  width: 122px;
+}
+
+.about-us-front-end-silicon {
+  /* width: 550px; */
+  height: 450px;
+  background-color: #d9d9d9;
+  border-radius: 20px;
+  background-image: url(./AboutUs/img/mask-group-4.png);
+  background-size: 100% 100%;
+}
+
+.vision-mission {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./AboutUs/img/mask-group-3.png);
+  color: #fff;
+  background-color: #ededed;
+  background-blend-mode: darken;
+  height: 400px;
+}
+
+.philosophy {
+  background-color: #e5f5ff;
+  height: 500px;
+}
+
+.hide-on-small {
+  visibility: visible;
+}
+
+.pb-md-8 {
+  padding-bottom: 92px;
+}
+
+.services-banner {
+  background-color: #072446;
+  background-image: url(./Services/img/bannner.svg);
+  background-size: 100%;
+  /* min-height: 370px; */
+  background-size: cover;
+}
+
+.fe-silicon {
+  background-image: url(./Services/img/mask-group-3.png);
+  border-radius: 20px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.platform-engineering {
+  background-image: url(./Services/img/mask-group-2.png);
+  border-radius: 20px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.backend-engineering {
+  background-image: url(./Services/img/mask-group-1.png);
+  border-radius: 20px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.embedded-firmware {
+  background-image: url(./Services/img/mask-group.png);
+  border-radius: 20px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.contact-us {
+  background-color: #072446;
+  background-image: url(./ContactUs/img/bannner.svg);
+  background-size: 100%;
+  background-size: cover;
+}
+
+.contact-banner-text {
+  padding-top: 90px;
+  padding-left: 4.2%;
+  margin-top: 20px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 300;
+  color: transparent;
+  font-size: 4.7vw;
+  letter-spacing: 0;
+  line-height: 3.9vw;
+  color: #ffffff;
+}
+
+.vector-wrapper {
+  border-radius: 11px;
+  border: 1px solid;
+  border-color: #ffa41b;
+  width: 22px;
+  height: 22px;
+}
+
+@media (max-width: 575.98px) {
+  .main-content {
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+    padding-left: 0.4rem !important;
+    padding-right: 0.4rem !important;
+  }
+  .home-banner-text {
+    padding-top: 4vw;
+    padding-left: 4.2%;
+    font-size: 1.5rem;
+    letter-spacing: 0;
+    line-height: 2rem;
+  }
+  .contact-banner-text {
+    padding-top: 4.5vw;
+    padding-left: 4.2%;
+    font-size: 2rem;
+    letter-spacing: 0;
+    line-height: 2rem;
+  }
+  .banner {
+    background-size: 100%;
+    min-width: 100%;
+    height: auto !important;
+    padding-bottom: 0;
+  }
+
+  .banner-button {
+    margin-bottom: 1rem;
+  }
+
+  .home-banner-button {
+    margin-top: 3.5%;
+    width: 122px;
+  }
+
+  .home-card {
+    padding-left: 40px;
+  }
+
+  .home-card-body {
+    padding-top:0px;
+  }
+  .why-choose-us {
+    background-color: #072446;
+    min-height: 300px;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    text-align: center;
+  }
+  .hide-on-small {
+    visibility: hidden;
+  }
+  .pb-md-8 {
+    padding-bottom: 0px;
+  }
+  .about-us-front-end-silicon {
+    width: 100%;
+    background-color: #d9d9d9;
+    border-radius: 20px;
+    background-image: url(./AboutUs/img/mask-group-4.png);
+    background-size: 100% 100%;
+  }
+
+  .fe-silicon, .platform-engineering, .backend-engineering, .embedded-firmware {
+    border-radius: 0 !important;
+    width: 100%;
+    padding-top: 54.166666666667%;
+    height: 0;
+  }
+
+  .banner-margin {
+    font-family: "Roboto", Helvetica;
+    margin-right: 30vw;
+    margin-top: 8px;
+    text-align: left;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 300;
+    letter-spacing: 0;
+  }
+
+}
